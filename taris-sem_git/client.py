@@ -10,7 +10,7 @@ PORT = 2000
 def main():
     sock = socket.socket()
     sock.connect((HOST, PORT))
-
+(())))()()()()()()
     p = 54
     g = 53
     a = 63  # это можно хранить в txt
